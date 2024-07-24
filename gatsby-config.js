@@ -15,7 +15,7 @@ module.exports = {
     {
       resolve: "gatsby-source-wordpress",
       options: {
-        url: https://thekingscollege.netlify.app/graphql,
+        url: thekingscollege.netlify.app/graphql,
       },
     },
     "gatsby-plugin-sharp",
